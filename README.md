@@ -5,3 +5,5 @@ Proyecto de calculadora para el curso de automation QA del GCBA
 * Archivo de calculadora de python
 * Directorio tests con pruebas unitarias en pytest
 
+## Contacto
+* Mail: nicolas.gonzalez15@gmail.com
