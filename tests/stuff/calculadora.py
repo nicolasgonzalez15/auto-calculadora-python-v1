@@ -22,7 +22,7 @@ def menu():
     print("4) División ")
     print("0) Salir ")
 
-
+"""
 def main():
     while True:
         menu()
@@ -66,7 +66,7 @@ def main():
 
 
 main()
-
+"""
 """
 if __name__ == "__main__":
     print("Hola estoy adentro del if")

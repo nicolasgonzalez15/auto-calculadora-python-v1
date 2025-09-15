@@ -1,0 +1,2 @@
+def hora():
+    return "hora"
